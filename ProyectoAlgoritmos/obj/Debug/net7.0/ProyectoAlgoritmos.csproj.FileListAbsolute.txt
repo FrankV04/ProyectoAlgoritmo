@@ -1,0 +1,15 @@
+C:\Proyectos Visual\ProyectoAlgoritmos\ProyectoAlgoritmos\bin\Debug\net7.0\ProyectoAlgoritmos.exe
+C:\Proyectos Visual\ProyectoAlgoritmos\ProyectoAlgoritmos\bin\Debug\net7.0\ProyectoAlgoritmos.deps.json
+C:\Proyectos Visual\ProyectoAlgoritmos\ProyectoAlgoritmos\bin\Debug\net7.0\ProyectoAlgoritmos.runtimeconfig.json
+C:\Proyectos Visual\ProyectoAlgoritmos\ProyectoAlgoritmos\bin\Debug\net7.0\ProyectoAlgoritmos.dll
+C:\Proyectos Visual\ProyectoAlgoritmos\ProyectoAlgoritmos\bin\Debug\net7.0\ProyectoAlgoritmos.pdb
+C:\Proyectos Visual\ProyectoAlgoritmos\ProyectoAlgoritmos\obj\Debug\net7.0\ProyectoAlgoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos Visual\ProyectoAlgoritmos\ProyectoAlgoritmos\obj\Debug\net7.0\ProyectoAlgoritmos.AssemblyInfoInputs.cache
+C:\Proyectos Visual\ProyectoAlgoritmos\ProyectoAlgoritmos\obj\Debug\net7.0\ProyectoAlgoritmos.AssemblyInfo.cs
+C:\Proyectos Visual\ProyectoAlgoritmos\ProyectoAlgoritmos\obj\Debug\net7.0\ProyectoAlgoritmos.csproj.CoreCompileInputs.cache
+C:\Proyectos Visual\ProyectoAlgoritmos\ProyectoAlgoritmos\obj\Debug\net7.0\ProyectoAlgoritmos.dll
+C:\Proyectos Visual\ProyectoAlgoritmos\ProyectoAlgoritmos\obj\Debug\net7.0\refint\ProyectoAlgoritmos.dll
+C:\Proyectos Visual\ProyectoAlgoritmos\ProyectoAlgoritmos\obj\Debug\net7.0\ProyectoAlgoritmos.pdb
+C:\Proyectos Visual\ProyectoAlgoritmos\ProyectoAlgoritmos\obj\Debug\net7.0\ProyectoAlgoritmos.genruntimeconfig.cache
+C:\Proyectos Visual\ProyectoAlgoritmos\ProyectoAlgoritmos\obj\Debug\net7.0\ref\ProyectoAlgoritmos.dll
+C:\Proyectos Visual\ProyectoAlgoritmos\ProyectoAlgoritmos\obj\Debug\net7.0\ProyectoAlgoritmos.csproj.AssemblyReference.cache

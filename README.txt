@@ -1,0 +1,1 @@
+Para clonarlo se hace un git clone "el enlace del proyecto" y debe realizarse en la ruta de C:\Proyectos Visual
